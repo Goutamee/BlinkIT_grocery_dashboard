@@ -58,4 +58,4 @@ This dashboard provides an end-to-end sales analytics solution for BlinkIT's gro
 
 ## 6. ✨ Screenshot of the Dashboard
 
-https://github.com/Goutamee/BlinkIT_grocery_dashboard/blob/main/Screenshot.png
+(https://github.com/Goutamee/BlinkIT_grocery_dashboard/blob/main/dashboard_screenshot.png)
