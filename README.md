@@ -20,6 +20,8 @@ This dashboard provides an end-to-end sales analytics solution for BlinkIT's gro
 
 ## 4. 📦 Data Source
 
+**More info on where data come from and how it's structured.**
+- **source: Kaggle.**
 - **File:** `BlinkIT_Grocery_Data.xlsx`
 - **Records:** 8,523 rows across 10 outlets
 - **Fields (12 columns):**
@@ -55,3 +57,5 @@ This dashboard provides an end-to-end sales analytics solution for BlinkIT's gro
 
 
 ## 6. ✨ Screenshot of the Dashboard
+
+https://github.com/Goutamee/BlinkIT_grocery_dashboard/blob/main/Screenshot.png
