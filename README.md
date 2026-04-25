@@ -1,4 +1,4 @@
-# BlinkIT_grocery_dashboard
+# BlinkIT_Grocery_Dashboard
 
 ## 1. 🏷️ Project Headline
 
